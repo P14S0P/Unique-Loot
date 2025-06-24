@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="uniqueloot"
+version="1.0.0" # Versión fija - cambia según necesites
+displayName="Unique Loot"
+description="Unique Loot after killing an enemy"
+authors="PIASOP"
+
+[[dependencies.uniqueloot]]
+modId="forge"
+versionRange="[47.2.20,)"
+mandatory=true
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.uniqueloot]]
+modId="minecraft"
+versionRange="[1.20.1]"
+mandatory=true
+ordering="NONE"
+side="BOTH"
