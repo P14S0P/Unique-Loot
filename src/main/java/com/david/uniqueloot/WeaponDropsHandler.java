@@ -26,7 +26,7 @@ public class WeaponDropsHandler {
         "Gloomsteel Greataxe", "Skeleton Axe", "Vindicator", "Treacherous Axe",
         "Iron Greataxe", "Iron Battle Axe", "Iron Halberd",
         "Revenant's Gravescepter", "Windreaper", "Crystal Frostscythe",
-        "Azure Scythe", "Iron Hay Sickle", "Nocturne"
+        "Azure Scythe", "Iron Hay Sickle", "Nocturne", "Ravenous Blade"
     );
     
     private static List<String> availableNames = new ArrayList<>(WEAPON_NAMES);
